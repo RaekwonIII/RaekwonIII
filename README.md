@@ -18,7 +18,7 @@
 - 🌐 &nbsp; HTML | CSS | JavaScript | Node.js (learning)
 - 🛢 &nbsp; MySQL | MariaDB | PostgreSQL | Redshift | MongoDB
 - 🔧 &nbsp; Git | Gitlab | Docker | Kubernetes
-- 🖥 &nbsp; Photoshop | GIMP | Audacity
+- 🖥 &nbsp; Photoshop | Figma | GIMP | Audacity
 
 <h3>🤝🏻  More...</h3>
 
@@ -31,7 +31,7 @@
 <a href="https://www.linkedin.com/in/massimoluraschi/">
   <img align="left" alt="Massimo's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/ScarfaceIII">
+<a href="https://github.com/RaekwonIII">
   <img align="left" alt="Massimo's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://t.me/RaekwonTheChefIII">
@@ -48,4 +48,4 @@
 </a>-->
 <br />
 
-⭐️ From [ScarfaceIII](https://github.com/ScarfaceIII)
+⭐️ From [RaekwonIII](https://github.com/RaekwonIII)
